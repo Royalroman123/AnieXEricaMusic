@@ -56,7 +56,7 @@ AMBOT = [
     "ᴘʀᴏᴄᴇꜱꜱɪɴɢ..",
 ]
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
+START_IMG_URL = getenv("START_IMG_URL","https://telegra.ph/file/64d7d80a324b1256dea01.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
 STATS_IMG_URL = getenv("STATS_IMG_URL", "https://graph.org/file/f234fa4e140eb1b85d185.jpg")
